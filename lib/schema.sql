@@ -29,4 +29,3 @@ CREATE TABLE characters (
   species TEXT,
   author_id INTEGER
 );
-
